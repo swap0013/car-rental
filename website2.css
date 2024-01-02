@@ -1,0 +1,60 @@
+.nav-link:hover{
+    color: red !important;
+}
+
+.h1{
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-family: cursive;
+    text-decoration: underline;
+}
+.p1{
+    color: rgb(201, 25, 25);
+    display: flex;
+    justify-content: center;
+    font-family: Georgia, serif;
+    padding-top: 10px;
+}
+
+.p2{
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-family: Georgia, serif;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.h2{
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-family: cursive;
+    text-decoration: underline;
+}
+.p3{
+    color: rgb(201, 25, 25);
+    display: flex;
+    justify-content: center;
+    font-family: Georgia, serif;
+    padding-top: 10px;
+}
+
+.p4{
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-family: Georgia, serif;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.card-img-top:hover{
+    opacity: 0.5;
+}
+
+.mt-4{
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
